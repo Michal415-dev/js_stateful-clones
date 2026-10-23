@@ -35,5 +35,4 @@ function transformStateWithClones(state, actions) {
   return result;
 }
 
-
 module.exports = transformStateWithClones;
